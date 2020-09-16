@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ![](https://komarev.com/ghpvc/?username=being24&color=green)
+[![](https://raw.githubusercontent.com/being24/being24/master/profile-summary-card-output/default/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
