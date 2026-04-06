@@ -52,3 +52,13 @@
 ```
 
     
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/being24/being24/master/profile-summary-card-output/highcontrast/4-productive-time.svg)
+```
+
+    
